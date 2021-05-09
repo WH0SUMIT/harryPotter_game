@@ -8,7 +8,7 @@ $font-1: 'Harry Potter', sans-serif;
 $font-2:  'Tangerine', cursive;
 
 *{
-     font-family: $font-1;
+     font-family: $font-2;
      
 }
 body{
@@ -19,7 +19,7 @@ p{
      font-family: $font-2;
 }
 .font-1{
-     font-family: $font-1;
+     font-family: $font-2;
 }
 .font-2{
      font-family: $font-2;
